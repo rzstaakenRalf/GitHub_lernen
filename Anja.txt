@@ -1,0 +1,3 @@
+wenn Ralf ein private GitHub Repo erstellt, kann ich es zwar klonen mit
+git clone https://github.com/rzstaakenRalf/GitHub_lernen.git
+aber kann es nicht bearbeiten
